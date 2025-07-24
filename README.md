@@ -24,45 +24,41 @@ Fields Used: Title, Genre, Director, Cast, Country, Rating, Duration, Type, Date
 Dataset File: amazon_prime_dataset.csv
 
 5️⃣ Features / Highlights
-• Business Problem
-Amazon Prime hosts thousands of global content titles, but it’s difficult to analyze genre popularity, content growth, and regional distribution using flat tables or raw spreadsheets.
+🔍 Business Problem
+Amazon Prime offers a vast content library, but understanding genre trends, content growth, and regional diversity is challenging using raw tables or spreadsheets.
 
-• Goal of the Dashboard
-To build an interactive data visualization that:
+🎯 Goal of the Dashboard
+To provide a dynamic visual tool that:
 
-Helps users explore Amazon Prime's content data across various dimensions
+Explores Prime Video content across genres, countries, and ratings
 
-Enables insight-driven decisions about content strategy, marketing, and regional trends
+Supports strategic decisions in content planning and marketing
 
-Supports visual storytelling through KPIs, charts, and filters
+Tells stories with data using KPIs, filters, and charts
 
-• Walkthrough of Key Visuals
-Key KPIs (Top Cards):
-Total titles, Most Common Genre, Countries covered, Peak Release Year
+📊 Key Visuals
+📌 KPIs: Total Titles, Top Genre, Covered Countries, Peak Release Year
 
-Genre Distribution (Donut Chart):
-Visual comparison of the most common genres
+🍿 Genre Chart (Donut): Compare most popular genres
 
-Year-wise Content Trend (Bar Chart):
-Highlights content production trends over the years
+📅 Content Over Time (Bar): Track release year trends
 
-Rating Breakdown (Bar/Pie Chart):
-Shows classification like TV-MA, PG, R, etc.
+🎬 Rating Analysis: Understand distribution across TV-MA, PG, etc.
 
-Country-wise Content Spread (Map / Tree Map):
-Displays which countries produce or feature the most content
+🌎 Regional Spread (Map/Tree): Visualize content by country
 
-Content Type Chart:
-Compares Movies vs TV Shows on the platform
+📽 Content Type Split: Movies vs TV Shows
 
-• Business Impact & Insights
-📊 Content strategists can optimize offerings by analyzing genre and age-rating coverage
+💡 Business Impact & Insights
+📊 Content teams can optimize acquisition & curation strategies
 
-🌍 Marketers can localize campaigns based on country-specific insights
+🌍 Marketers can identify region-specific promotion opportunities
 
-📈 Platform analysts can track content growth and audience alignment over time
+📈 Analysts can track yearly content trends
 
-🎯 Decision-makers can identify gaps or strengths in content type distribution
+🎯 Decision-makers gain a clear snapshot of content strengths & gaps
 
 6️⃣ Screenshots / Demos
+Show what the dashboard looks like - 
+Example: ![Dashboard Preview](https://github.com/Sugam-100/amazon-prime-dashboard/blob/main/Amazon%20Prime%20Dashboard%20Template.pbit)
 
