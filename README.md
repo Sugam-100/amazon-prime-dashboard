@@ -22,7 +22,7 @@ The dashboard was built using the following tools and technologies:
 Source: Kaggle - Netflix and Amazon Prime Titles Dataset
 Filter Applied: Only Amazon Prime titles were retained
 Fields Used: Title, Genre, Director, Cast, Country, Rating, Duration, Type, Date Added, Release Year
-Dataset File: amazon_prime_dataset.csv
+Dataset File: (https://github.com/Sugam-100/amazon-prime-dashboard/blob/main/amazon_prime_titles.csv)
 
 5️⃣ Features / Highlights
 
