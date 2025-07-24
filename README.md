@@ -60,5 +60,5 @@ Tells stories with data using KPIs, filters, and charts
 
 6️⃣ Screenshots / Demos
 Show what the dashboard looks like - 
-Example: ![Dashboard Preview](https://github.com/Sugam-100/amazon-prime-dashboard/blob/main/Amazon%20Prime%20Dashboard%20Template.pbit)
+Example: ![Dashboard Preview](https://github.com/Sugam-100/amazon-prime-dashboard/blob/main/amazon-prime%20screenshort.png)
 
